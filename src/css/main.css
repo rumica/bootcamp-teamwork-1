@@ -1,0 +1,24 @@
+/* Imports */
+@import '_reset.css';
+@import '_variables.css';
+@import '_mixin.css';
+
+
+:root{
+  font-size: 10px;
+}
+
+body{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  
+}
+
+.container{
+max-width: 120rem;
+margin: 0 auto;
+padding:1rem;
+}
+
